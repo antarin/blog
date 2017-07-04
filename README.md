@@ -1,6 +1,6 @@
 # Blog
 
-Blog készíteése HTML és CSS segítségével.
+Blog készítése HTML és CSS segítségével.
 
 Készült:
 - HTML
